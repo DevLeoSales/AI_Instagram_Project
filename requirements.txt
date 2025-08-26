@@ -1,8 +1,8 @@
-
 botcity-maestro-sdk>=0.5.1,<1.0
 dotenv
 instagrapi
 requests
+setuptools
 # Uncomment to use botcity-utils
 # botcity-utils>=0.1.2
 
